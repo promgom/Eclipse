@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/Users/promerog/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
-1549653844.index
-577950837.index
-1865797976.index
